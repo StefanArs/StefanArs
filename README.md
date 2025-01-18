@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StefanArs
+- 👋 Hi, I’m @StefanArsenie
 - 👀 I’m interested in Web Testing
 - 🌱 I’m currently learning Postman, Java and Selenium
 - 💞️ I’m looking to collaborate on Web Testing
